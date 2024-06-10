@@ -21,3 +21,10 @@ OKX_WASS_PROJECT=xxx
 # NEXT_PUBLIC_PROJECT_ID <https://cloud.walletconnect.com> 申请
 NEXT_PUBLIC_PROJECT_ID=<YOUR_PROJECT_ID>
 ```
+
+## 使用的库
+
+- [viem](https://viem.sh/)
+- [wagmi](https://wagmi.sh/): wagmi 依赖viem
+- [rainbowkit](https://www.rainbowkit.com/)
+- [chakra](https://v2.chakra-ui.com/)
